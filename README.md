@@ -2,7 +2,7 @@
 
 🚀 I'm currently studying about Javascript, NodeJS, React and Database
 </br>
-📫 How to reach me
+📫 How to reach me leonardoalvesdev99@hotmail.com
 
 ### Connect with me
 
