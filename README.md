@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Leonardo Alves</h1>
 
-🚀 I'm currently studying about Javascript, NodeJS, React and Database
+🚀 I'm Full-Stack Developer about Javascript, NodeJS, React and Databasel
 </br>
 📫 How to reach me leonardoalvesdev99@hotmail.com
 
