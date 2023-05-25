@@ -8,9 +8,8 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoalves99/)
 
-![Leonardo Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoalves99&show_icons=true&theme=dracula)
-</br>
 
+[![Leonardo Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoalves99)](https://github.com/leonardoalves99/github-readme-stats)
 
 ### Languages and Tools:
 <div style="display: inline_block"><br/>
